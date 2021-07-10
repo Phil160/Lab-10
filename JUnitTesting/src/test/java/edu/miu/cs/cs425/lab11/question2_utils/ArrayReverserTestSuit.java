@@ -5,5 +5,5 @@ import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({ArrayReverserTest.class,ArrayReverserNullTest.class})
-public class ArrayReverserTestCases {
+public class ArrayReverserTestSuit {
 }
